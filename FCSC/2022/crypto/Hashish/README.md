@@ -4,7 +4,7 @@
 >
 >nc challenges.france-cybersecurity-challenge.fr 2103
 
-Fichier joint: [hashish.py](/hashish.py)
+Fichier joint: [hashish.py](/FCSC/2022/crypto/Hashish/hashish.py)
 
 ## Objectif du challenge
 
@@ -138,4 +138,4 @@ def twos_comp(val, bits):
     return sign * (val % (2 ** bits))
 ```
 
-![](/Hashish/meme.jpg)
+![](/FCSC/2022/crypto/Hashish/Hashish/meme.jpg)

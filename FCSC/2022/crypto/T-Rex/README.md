@@ -3,8 +3,8 @@
 > Vous devez déchiffrer le flag :-)
 
 Fichiers joints:
-[TREX.py](/TRex.py)
-[output.txt](/output.txt)
+[TREX.py](/FCSC/2022/crypto/T-Rex/TRex.py)
+[output.txt](/FCSC/2022/crypto/T-Rex/output.txt)
 
 ## Analyse du code
 
@@ -77,4 +77,4 @@ for i in range(128):
 key = known_bit
 ```
 
-On peut retrouver l'exploit complet ici: [exploit.py](/exploit.py)
+On peut retrouver l'exploit complet ici: [exploit.py](/FCSC/2022/crypto/T-Rex/exploit.py)
